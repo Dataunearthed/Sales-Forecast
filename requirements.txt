@@ -1,8 +1,0 @@
-pandas
-numpy
-matplotlib
-statsmodels
-xgboost
-openpyxl
-sklearn
-streamlit
